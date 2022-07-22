@@ -1,6 +1,6 @@
 # Desafio Técnico | Back-end - Módulo 1
 
-:pencil2: Projeto
+:pencil2:
 Exercícios propostos pela [Cubos Academy](https://cubos.academy/sucesso).
 
 :desktop_computer: Tecnologia usada
